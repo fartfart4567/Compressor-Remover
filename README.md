@@ -1,1 +1,1 @@
-"# Compressor-Remover" 
+Removes the compressor of ConfuserEx
